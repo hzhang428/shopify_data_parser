@@ -1,5 +1,13 @@
-###csv file###
-.csv
+### csv file ###
+*.csv
 
-###python env folder ###
-./env
+### python env folder ###
+env/
+
+### python compile file ###
+*.pyc
+
+.vscode/
+
+regex_test.py
+
